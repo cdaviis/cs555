@@ -9,7 +9,7 @@ Course work for MET CS555 (Data Analysis and Visualization) — Chris Davis.
 | `module-1/` | Homework 1 — hospital stay durations |
 | `module-2/` | Homework 2 — meal prep and calorie intake |
 | `module-3/` | Homework 3 — fish meals and mercury levels |
-| `module-4/` | Placeholder |
+| `module-4/` | Homework 4 — occupational prestige regression |
 | `module-5/` | Placeholder |
 | `module-6/` | Placeholder |
 | `term-project/` | Placeholder |
